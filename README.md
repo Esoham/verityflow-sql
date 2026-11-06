@@ -2,6 +2,8 @@
 
 A reproducible **independent portfolio project** demonstrating SQL reporting, data governance, exception detection, and executive-friendly presentation using **fictional loan operations data**. No real customers, lenders or private records.
 
+**For a quick review:** Start with the [business case study](docs/CASE_STUDY.md) and [data dictionary](docs/DATA_DICTIONARY.md); then inspect the [quality checks](quality_checks.sql), [analytics queries](analytics.sql), and [dashboard generator](dashboard.py). **Demonstrates:** SQL reasoning, exception reporting, transparent metric definitions, and management-ready outputs.
+
 ## Business problem
 Operations leaders need trustworthy application volumes, reference-data mappings and workflow status. Inconsistent records can distort management reporting.
 
